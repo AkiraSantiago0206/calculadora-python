@@ -45,4 +45,4 @@ Digite o segundo número: 3
 
 ## Autor
 
-Criado por \[Seu Nome\].
+Criado por Akira Santiago.
